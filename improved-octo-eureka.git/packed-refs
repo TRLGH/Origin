@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+ed160d0d97f7c7568de2dd20abb856d6b1925397 refs/heads/Homework-branch
+71cdcb06b0f0e1d44c6ac4c437282a5f59e88281 refs/heads/master
+95f103fed1c114637f47e54733759d073ac265d0 refs/pull/1/head
+a1703445589116ca12d514e1c237b9d70ad89382 refs/pull/2/head
