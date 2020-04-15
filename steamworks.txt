@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 qwfqwfqfqwfqwfqfmounojboj
 amended line of code
 ilyfutdultdlutdlutlutfluyfluf
+=======
+qwfqwfqfqwfqwfqfmounojboj
+>>>>>>> 1286e0eca508db899dda1915a6b91af84e34e81f
